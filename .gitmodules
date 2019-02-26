@@ -1,0 +1,6 @@
+[submodule "troika"]
+	path = troika
+	url = https://github.com/Citrullin/troika
+[submodule "iota"]
+	path = iota
+	url = https://github.com/embedded-iota/iota-c-library

@@ -1,0 +1,11 @@
+# Cmake
+CMakeCache.txt
+CMakeFiles
+cmake-build-debug
+cmake_install.cmake
+Makefile
+troika_benchmark.cbp
+
+#exe
+troika_benchmark
+keccak_benchmark
